@@ -1,0 +1,3 @@
+/points deve retornar todos os points se não tiver query;
+
+completar CRUD em items e points
