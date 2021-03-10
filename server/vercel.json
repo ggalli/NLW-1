@@ -3,7 +3,7 @@
 	"name": "nlw1-backend",
 	"builds": [
 		{
-			"src": "*.ts",
+			"src": "src/server.ts",
 			"use": "@vercel/node"
 		}
 	],
