@@ -1,0 +1,11 @@
+{
+	"version": 2,
+	"name": "nlw1-backend",
+	"builds": [
+		{
+			"src": "*.ts",
+			"use": "@vercel/node"
+		}
+	],
+	"cleanUrls": true
+}
